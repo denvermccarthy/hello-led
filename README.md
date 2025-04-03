@@ -16,10 +16,10 @@ Breadboard + jumper wires
 
 ### Setup:
 
-Wire up the LED to GPIO 2 (or whichever pin you're using).
+Wire up the LED to GPIO 26 
 
-Flash the code using Arduino IDE / PlatformIO.
+Flash the code using Arduino IDE 
 
-Watch the blink!
+🚨  🚨  🚨  🚨
 
 
